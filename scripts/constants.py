@@ -118,7 +118,6 @@ GITHUB_URLS: list[str] = [
     "vscode.dev",
     # "vscode-webview.net",
     "vstoken.actions.githubusercontent.com",
-
     # ===== 下面是新追加的 Docker Hub 域名 =====
     "registry-1.docker.io",
     "auth.docker.io",
@@ -126,11 +125,9 @@ GITHUB_URLS: list[str] = [
     "production.cloudflare.docker.com",
     "index.docker.io",
     "docker.io",
-
     # ===== 下面追加 sehuatang 相关域名 =====
     "sehuatang.org",
     "www.sehuatang.org",
-
     # ===== 下面追加 jable 相关域名 =====
     "jable.tv",
     "assets.jable.tv",
