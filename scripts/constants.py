@@ -130,9 +130,16 @@ GITHUB_URLS: list[str] = [
     "www.sehuatang.org",
     "tu.djhdhs.us",
     "jo.djsnm.app",
+    "www.sehuatang.net",
+    "sehuatang.net",
+    "creative.gasipedibexide.com",
+    "media-hls.growcdnssedge.com",
     # ===== 下面追加 jable 相关域名 =====
     "jable.tv",
     "assets.jable.tv",
     "assets-cdn.jable.tv",
     "creative.greentrafsa.com",
+    "assetscdn.jable.tv",
+    "z6v2p9a8.bkcdn.net",
+    "akuma-trstin.mushroomtrack.com",
 ]
