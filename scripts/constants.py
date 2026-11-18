@@ -128,7 +128,11 @@ GITHUB_URLS: list[str] = [
     # ===== 下面追加 sehuatang 相关域名 =====
     "sehuatang.org",
     "www.sehuatang.org",
+    "tu.djhdhs.us",
+    "jo.djsnm.app",
     # ===== 下面追加 jable 相关域名 =====
     "jable.tv",
     "assets.jable.tv",
+    "assets-cdn.jable.tv",
+    "creative.greentrafsa.com",
 ]
