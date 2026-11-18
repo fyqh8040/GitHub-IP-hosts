@@ -3,7 +3,8 @@ name: Auto-update-hosts
 on:
   schedule:
     # UTC+8 Monday 07:00 = UTC Sunday 23:00
-    - cron: "0 23 * * 0"
+    # 每三天执行一次 (UTC 19:28 = 北京时间 03:28)
+    - cron: "28 19 */3 * *"
   workflow_dispatch:
 
 permissions:
